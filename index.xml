@@ -10,7 +10,7 @@
         <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/genizy/jride@aa4ee5df97dc06f718781b5236f1251cb4c7cbfa/css/styles.css">
         <meta name="viewport" content="user-scalable=no"/>
         <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/jride@aa4ee5df97dc06f718781b5236f1251cb4c7cbfa/h5Sdk.js"></script>
-        <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/jride@93890d2c30e4f2e8d2d3400029465d1b32b225bcc78cc44042cbf6285bafcef5db3fcd9cc1e3182d/engine/phaser-3.24.1.min.js"></script>
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/jride@754e68628395f923ddacc457db7ae766e1242006/engine/phaser-3.24.1.min.js"></script>
         <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/jride@aa4ee5df97dc06f718781b5236f1251cb4c7cbfa/game3.js"></script>
     </head>
      <body>
